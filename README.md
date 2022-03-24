@@ -1,6 +1,5 @@
 # Seqwa Recommend API Implementation
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/seqwa-autocomplete-nextjs)
 
 ## About Seqwa
 
